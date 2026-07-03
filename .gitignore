@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model cache
+.cache/
+
+# Output files
+data/output/
+data/embeddings/
+
+# Temporary files
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env

@@ -1,0 +1,78 @@
+Python
+Java
+C++
+C#
+SQL
+MySQL
+PostgreSQL
+MongoDB
+Oracle
+
+Machine Learning
+Deep Learning
+Artificial Intelligence
+NLP
+Computer Vision
+
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+XGBoost
+LightGBM
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+
+Power BI
+Tableau
+Excel
+
+Git
+GitHub
+Docker
+Kubernetes
+Linux
+
+FastAPI
+Flask
+Django
+Streamlit
+
+AWS
+Azure
+GCP
+
+Spark
+Hadoop
+
+LangChain
+OpenAI
+Gemini
+FAISS
+ChromaDB
+Vector Database
+
+RAG
+LLM
+Generative AI
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+FastAPI
+PyTorch
+Docker
+FAISS
+LangChain
+OpenAI
+Hugging Face
+spaCy
+Transformers
+LLM
+RAG
